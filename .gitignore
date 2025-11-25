@@ -1,0 +1,22 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# Backend
+backend/node_modules
+backend/.env
+
+# Frontend
+frontend/node_modules
+frontend/build
+frontend/.env
+
+# macOS
+.DS_Store
